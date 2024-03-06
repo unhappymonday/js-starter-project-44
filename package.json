@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/unhappymonday/js-starter-project-44/issues"
   },
-  "type" : "module",
-  "homepage": "https://github.com/unhappymonday/js-starter-project-44#readme"
+  "type": "module",
+  "homepage": "https://github.com/unhappymonday/js-starter-project-44#readme",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
