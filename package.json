@@ -20,6 +20,11 @@
   "type": "module",
   "homepage": "https://github.com/unhappymonday/js-starter-project-44#readme",
   "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  },
+  "dependencies": {
     "readline-sync": "^1.4.10"
   }
 }
