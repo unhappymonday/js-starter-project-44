@@ -9,3 +9,6 @@ publish:
 
 lint:
 	npm run lint
+
+brain-even:
+	node bin/brain-even.js
